@@ -26,3 +26,4 @@ function `handleTwitchAds()` { ... }: This function serves as a coordinator for 
 In summary, this code automates the process of closing overlay ads and handling video player ads on Twitch by finding and clicking on the appropriate buttons. It does so at regular intervals to improve the viewer's experience by minimizing or skipping ads. 
 
 # Tutorial
+https://github.com/PRATIKK0709/TAC-TwitchAdCrusher/blob/main/Tutorial.md
