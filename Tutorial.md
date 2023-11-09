@@ -12,7 +12,7 @@ Follow these steps to install the YouTube Ad Sniper Extension on your Google Chr
    - Click the "Code" button at the top of this GitHub repository.
    - Select "Download ZIP" to download the extension files to your computer.
 
-<img src="Screenshot 2023-11-09 at 2 44 17 PM" src="https://github.com/PRATIKK0709/TAC-TwitchAdCrusher/assets/139443204/ae876780-92d6-42f7-9313-9dadf2d1290c" width="550" height= "350">
+<img src="https://github.com/PRATIKK0709/TAC-TwitchAdCrusher/assets/139443204/6fd58d82-10fb-463a-a155-3adab2b69d1e" width="550" height= "350">
 
 2. **Unzip the Files:**
 
