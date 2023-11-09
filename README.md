@@ -1,7 +1,7 @@
 # TAC-TwitchAdsCrusher
 TwitchAdsCrusher Extension is designed to improve the user experience on the Twitch website by automatically managing and removing various types of advertisements that may appear during video playback.
 
-## explaination
+# Explaination
 ## const `checkInterval` 
 
 const `checkInterval` = 100;: This line sets the checkInterval constant to 100 milliseconds, which means that the code will check for and attempt to skip ads on Twitch every 100 milliseconds. 
